@@ -1,0 +1,3 @@
+This is thE SAMPLE TEXT FILE THAT
+is to be rEAD FROM AND DISPLAYED BY 
+the prograM.

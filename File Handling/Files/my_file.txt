@@ -1,0 +1,5 @@
+A "good" password is a password that contains both uppercase and lowercase letters,
+numerals, and special characters. Common passwords like "Blue132&!*" are often
+strong enough to qualify as "strong" passwords "Banana Fever Rowdy Horse Kazoo
+82319!" is a much stronger password than "L1lb0P33p*" and is easier to spell, and
+remember.
